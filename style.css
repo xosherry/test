@@ -1,0 +1,52 @@
+.hi{ /*. class*/
+	color: red;
+	font-size: 30px;
+	font-family: courier;
+}
+
+.more{
+	width: 100%;
+	margin-right: 100px;
+	background-color: blue;
+	padding: 20px;
+	border: dashed black 10px;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
+
+.more img:hover{
+	width: 100%;
+	margin-right: 100px;
+	background-color: hotpink;
+	padding: 20px;
+	border: dashed black 10px;
+}
+
+.square{
+	height: 200px;
+}
+
+.square1{
+	background: green;
+}
+
+.square2{
+	background: blue;
+}
+
+.square3{
+	background: red;
+}
+
+.square4{
+	background: yellow;
+}
+
+
